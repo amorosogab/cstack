@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0:1", "", "stack diagram", "EARoot/EA1.htm", "175.png", "1", "0", "", "Logical diagram0","{28BC298A-FA30-46c8-9184-6D90157F36AD}");
+tocTab[tocTab.length] = new Array("0:2", "", "«struct» stack", "EARoot/EA5.htm", "5.png", "5", "0", "", "Class0","{812524DC-F2FA-4bca-95FF-42C5AB0B0B9B}");
+tocTab[tocTab.length] = new Array("0:3", "", "«source» stack", "EARoot/EA6.htm", "5.png", "3", "0", "", "Class0","{3221E76C-1C28-4db0-9848-652F26D34B7F}");
+tocTab[tocTab.length] = new Array("0:4", "", "«header» stack", "EARoot/EA7.htm", "5.png", "2", "0", "", "Class0","{E82C378D-F0E9-4b1f-A394-CDB8EB207846}");
+tocTab[tocTab.length] = new Array("0:5", "", "«struct» stack_node", "EARoot/EA8.htm", "5.png", "6", "0", "", "Class0","{022D8548-8766-4ba8-B240-24F5E7FB7C0A}");
+tocTab[tocTab.length] = new Array("0:6", "", "«typedef» stack_t: struct stack", "EARoot/EA9.htm", "5.png", "4", "0", "", "Class0","{ED52EFC0-854A-461f-823D-1F3109AF609B}");
+tocTab[tocTab.length] = new Array("0.1", "1", "is_coherent function", "EARoot/EA3.htm", "4.png", "", "", "{16878E15-B31C-4329-A691-E305FC2F27E7}", "Package");
+tocTab[tocTab.length] = new Array("0.2", "1", "pop function", "EARoot/EA4.htm", "4.png", "", "", "{B134D8BE-A49B-4078-BFFF-656C919EAF17}", "Package");

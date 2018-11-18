@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.2:1", "", "pop function", "EARoot/EA2/EA21.htm", "175.png", "4", "0", "", "Logical diagram0","{8EF150FA-35A6-4e99-AD90-47F5F5367BAB}");
+tocTab[tocTab.length] = new Array("0.2:2", "", "«FC_Process» destroy_stack(stk)", "EARoot/EA2/EA23.htm", "21.png", "25", "0", "", "Activity0","{71F1CAB3-E6FB-4f5f-9A62-AC038F936A57}");
+tocTab[tocTab.length] = new Array("0.2:3", "", "«FC_Decision» is_choerent(stk)", "EARoot/EA2/EA24.htm", "56.png", "24", "0", "", "Decision0","{2366E766-6E71-4ab8-B4D9-664F7D02CC40}");
+tocTab[tocTab.length] = new Array("0.2:4", "", "«FC_Begin» pop(stk)", "EARoot/EA2/EA25.htm", "68.png", "23", "0", "", "StateNode0","{5FDB2AB3-98B2-4ad8-BEB6-A898BFE3DCB4}");
+tocTab[tocTab.length] = new Array("0.2:5", "", "«FC_End» return NULL", "EARoot/EA2/EA26.htm", "69.png", "26", "0", "", "StateNode0","{E8BD8DC9-6F8B-4372-AABB-44315507697C}");
+tocTab[tocTab.length] = new Array("0.2:6", "", "«FC_End» return stk", "EARoot/EA2/EA27.htm", "69.png", "30", "0", "", "StateNode0","{ECCD0704-C4D2-4e01-8364-1A08368AA2E5}");
+tocTab[tocTab.length] = new Array("0.2:7", "", "«FC_Process» stk = pop_destroy(stk)", "EARoot/EA2/EA28.htm", "21.png", "28", "0", "", "Activity0","{21438229-3EDA-4a1e-B44E-083AB8D0E8BC}");
+tocTab[tocTab.length] = new Array("0.2:8", "", "«FC_Decision» stk-&gt;object_copy", "EARoot/EA2/EA29.htm", "56.png", "27", "0", "", "Decision0","{0A76BE12-22F2-438d-8EB9-52D8B37BA20B}");
+tocTab[tocTab.length] = new Array("0.2:9", "", "«FC_Process» tmp = stk-&gt;head; stk-&gt;head = stk-&gt;head-&gt;next; free(tmp)", "EARoot/EA2/EA30.htm", "21.png", "29", "0", "", "Activity0","{AD60A177-ED2A-4240-A3F1-56C0C6A7B1F6}");
